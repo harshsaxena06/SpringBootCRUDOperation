@@ -1,4 +1,4 @@
-package com.harsh.demo.ProductRepository;
+package com.harsh.demo.repository;
 
 import com.harsh.demo.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
